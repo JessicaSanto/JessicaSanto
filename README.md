@@ -32,7 +32,7 @@ Sou Programadora 👨‍💻, Pesquisadora 👨‍🔬, Professora Técnico 👨
 </div>
 <div>
   <h2>Certificações</h2>
-    <img width="10%" height="10%"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fmicrosoft-certification%2Fbadge%2Fmicrosoft-certified-azure-data-fundamentals&psig=AOvVaw05p0jGot9KTlo8GrqZT-4X&ust=1664392646814000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiO7t_XtfoCFQAAAAAdAAAAABAE"/>
+    <img width="10%" height="10%"  src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fmicrosoft-certification%2Fbadge%2Fmicrosoft-certified-azure-data-fundamentals&psig=AOvVaw05p0jGot9KTlo8GrqZT-4X&ust=1664392646814000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiO7t_XtfoCFQAAAAAdAAAAABAE](https://k21academy.com/wp-content/uploads/2020/10/DP-900_ProductImage-1-316x300.png)"/>
   <img width="10%" height="10%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
   <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
   <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png"/>
