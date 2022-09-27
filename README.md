@@ -1,5 +1,5 @@
 <h1>Eai galera! Seja bem-vindos ao meu perfil! Sou a Prof. Jessica. <br>
-Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬, Professora Técnico 👩🏻‍🏫.</h1>
+Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬 e Instrutora Técnica no Senai de Informática 👩🏻‍🏫.</h1>
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSanto&show_icons=true&theme=radical"/>
