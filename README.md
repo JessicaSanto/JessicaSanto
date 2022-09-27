@@ -1,5 +1,5 @@
-<h1>Olá! Seja bem-vindo ao meu perfil! Sou o Prof. Msc. Caique Zaneti.<br>
-Sou Programador 👨‍💻, Pesquisador 👨‍🔬, Professor Técnico e Universitario 👨‍🏫.</h1>
+<h1>Olá! Seja bem-vindo ao meu perfil! Sou a Prof. Jessica Santo.<br>
+Sou Programadora 👨‍💻, Pesquisadora 👨‍🔬, Professora Técnico 👨‍🏫.</h1>
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=czkirilo&show_icons=true&theme=radical"/>
@@ -26,15 +26,13 @@ Sou Programador 👨‍💻, Pesquisador 👨‍🔬, Professor Técnico e Unive
   <br>
 <div>
   <h2>🎓 Formação Acadêmica 🎓</h2>
- 💡   Técnico em Eletrônica - ETEC Tereza Nunes <br>
- 🖥️  Pós Técnico em Desenvolvimento Multiplataforma - Escola Senai de Informatica <br>
- 💻  Bacharel em Ciência da Computação - Universidade Paulista (UNIP) <br>
- ⚙️  Mestre em Engenharia de Produção - Universidade Paulista (UNIP) <br>
- 🩺  Doutorando em Medicina - Universidade de São Paulo (USP) <br>
+ 💡  Técnico em Informática - Colégio Nossa Senhora de Lourdes <br>
+ 🖥️  Bacharel em Ciência da Computação - Universidade Paulista (UNIP)<br>
+ 💻  Pós-Graduanda em Gestão na Educação Inclusiva - Universidade Federal de Pelotas (UFPEL) <br>
 </div>
 <div>
   <h2>Certificações</h2>
-    <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+    <img width="10%" height="10%"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fmicrosoft-certification%2Fbadge%2Fmicrosoft-certified-azure-data-fundamentals&psig=AOvVaw05p0jGot9KTlo8GrqZT-4X&ust=1664392646814000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiO7t_XtfoCFQAAAAAdAAAAABAE"/>
   <img width="10%" height="10%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
   <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
   <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png"/>
