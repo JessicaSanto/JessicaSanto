@@ -34,7 +34,7 @@ Sou Programadora 👨‍💻, Pesquisadora 👨‍🔬, Professora Técnico 👨
   <h2>Certificações</h2>
     <img width="10%" height="10%"  src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
   <img width="10%" height="10%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
-  <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
+  <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/g%2BIKH1JlcfVxiDs%2FnR3uRtUESNOUe046hqaktG6ptJg%3D"/>
   <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png"/>
   <img width="10%" height="10%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
 </div>
