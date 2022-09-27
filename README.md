@@ -1,4 +1,4 @@
-<h1>Olá! Seja bem-vindo ao meu perfil! Sou a Prof. Jessica Santo.<br>
+<h1>Eai galera! Seja bem-vindos ao meu perfil! Sou a Prof. Jessica. <br>
 Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬, Professora Técnico 👩🏻‍🏫.</h1>
 
 <div align="center">
