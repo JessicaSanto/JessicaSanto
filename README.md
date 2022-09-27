@@ -7,7 +7,7 @@ Sou Programadora 👨‍💻, Pesquisadora 👨‍🔬, Professora Técnico 👨
 </div>
 <br>
 <div align="center">
-<img width="85%" height="85%"  src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
+<img width="70%" height="70%"  src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
 </div>
 <br>
 <div>
