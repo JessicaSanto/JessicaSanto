@@ -15,6 +15,7 @@ Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬 e Instrutora Téc
   <a href="https://www.instagram.com/franzonjessica/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/j%C3%A9ssica-s-3938b5107/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jessica.santo@sp.senai.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.skoob.com.br/usuario/5946581-franzonjessica" target="_blank"><img src="https://blog.skoob.com.br/wp-content/uploads/2015/06/retina-logo.png"/></a>
     <a href="http://lattes.cnpq.br/3359465052525644" target="_blank"><img src="https://img.shields.io/badge/-Lattes-blue?style=for-the-badge&logo"/></a>
   <a href="http://lattes.cnpq.br/9930924260739041" target="_blank"><img src="https://img.shields.io/badge/-ORCID-green?style=for-the-badge&logo"/></a>
 </div>
