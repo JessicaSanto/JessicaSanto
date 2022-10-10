@@ -17,6 +17,8 @@ Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬 e Instrutora Téc
   <a href="mailto:jessica.santo@sp.senai.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="http://lattes.cnpq.br/3359465052525644" target="_blank"><img src="https://img.shields.io/badge/-Lattes-blue?style=for-the-badge&logo"/></a>
   <a href="http://lattes.cnpq.br/9930924260739041" target="_blank"><img src="https://img.shields.io/badge/-ORCID-green?style=for-the-badge&logo"/></a>
+     <a href="https://www.skoob.com.br/usuario/5946581-franzonjessica" target="_blank"><img src="https://leandrovsilva.com.br/wp-content/uploads/2022/05/skoob.png"/></a>
+
 </div>
   <br>
   
