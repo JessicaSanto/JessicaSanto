@@ -43,10 +43,7 @@ Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬 e Instrutora Téc
   <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/aKPS%2BiLuTDLnJf4QTddLTBDxCm8vezvoZsfK6LK%2B0GA%3D"/>
   <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/KhuyB3%2BoFuszr5sEJflgIOFvrIUPdPktaSaMKdWFLpg%3D"/>
    <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/L23dS6d4%2FmuL9sc9C%2F1jTKg25FBXLNr4R2F8BnP2cYU%3D"/>
- 
-  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
-
-  <img width="10%" height="10%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
+   <img width="10%" height="10%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
 </div>
 <div>
   <h2>Linguagens e Frameworks</h2>
