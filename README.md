@@ -35,6 +35,8 @@ Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬 e Instrutora Téc
 <div>
   <h2>Certificações</h2>
     <img width="10%" height="10%"  src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
+     <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png"/>
+     <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
   <img width="10%" height="10%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
   <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/g%2BIKH1JlcfVxiDs%2FnR3uRtUESNOUe046hqaktG6ptJg%3D"/>
   <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/fLiKtGrPZNH72aeBj%2FzWpcN9BqIAnSueDfx%2BbfY6EXw%3D"/>
