@@ -51,10 +51,10 @@ Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬 e Instrutora Téc
   <img src=https://progress-bar.dev/80?title=CSS />
   <img src=https://progress-bar.dev/75?title=JAVASCRIPT />
   <img src=https://progress-bar.dev/80?title=CSHARP  />
-  <img src=https://progress-bar.dev/45?title=DELPHI  />
+  <img src=https://progress-bar.dev/80?title=PYTHON  />
   <img src=https://progress-bar.dev/75?title=C  />
   <img src=https://progress-bar.dev/85?title=SQL  />
-  <img src=https://progress-bar.dev/65?title=VB  />
+  <img src=https://progress-bar.dev/65?title=REACT  />
   <img src=https://progress-bar.dev/80?title=BOOTSTRAP  />
    <img src=https://progress-bar.dev/85?title=ANGULAR  />
   
