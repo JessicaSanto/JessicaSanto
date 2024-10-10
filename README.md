@@ -27,7 +27,7 @@ Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬 e Instrutora Téc
  💡  Técnico em Informática - Colégio Nossa Senhora de Lourdes <br>
  🖥️  Bacharel em Ciência da Computação - Universidade Paulista (UNIP)<br>
  💻  Pós-Graduada em Gestão na Educação Inclusiva - Universidade Federal de Pelotas (UFPEL) <br>
- 💻  Pós-Graduanda em Pscicopedagogia - Faculdade das Américas (FAM) <br>
+ 💻  Pós-Graduada em Pscicopedagogia - Faculdade das Américas (FAM) <br>
  🎓  Mestranda em Medicina - Universidade de São Paulo (USP) <br>
 
 
