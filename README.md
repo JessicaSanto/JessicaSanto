@@ -45,18 +45,3 @@ Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬 e Professora Téc
    <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/L23dS6d4%2FmuL9sc9C%2F1jTKg25FBXLNr4R2F8BnP2cYU%3D"/>
    <img width="10%" height="10%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
 </div>
-<div>
-  <h2>Linguagens e Frameworks</h2>
-  <img src=https://progress-bar.dev/100?title=HTML />
-  <img src=https://progress-bar.dev/100?title=CSS />
-  <img src=https://progress-bar.dev/80?title=JAVASCRIPT />
-  <img src=https://progress-bar.dev/80?title=CSHARP  />
-  <img src=https://progress-bar.dev/100?title=PYTHON  />
-  <img src=https://progress-bar.dev/75?title=C  />
-  <img src=https://progress-bar.dev/90?title=SQL  />
-  <img src=https://progress-bar.dev/65?title=REACT  />
-  <img src=https://progress-bar.dev/80?title=BOOTSTRAP  />
-  <img src=https://progress-bar.dev/85?title=ANGULAR  />
-  
-  
-</div>
