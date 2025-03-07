@@ -1,5 +1,5 @@
 <h1>Eai galera! Sejam bem-vindos ao meu perfil! Sou a Prof. Jessica. <br>
-Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬 e Instrutora Técnica 👩🏻‍🏫</h1>
+Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬 e Professora Técnica 👩🏻‍🏫</h1>
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSanto&show_icons=true&theme=radical"/>
@@ -28,7 +28,7 @@ Sou Programadora 👩🏻‍💻, Pesquisadora 👩🏻‍🔬 e Instrutora Téc
  🖥️  Bacharel em Ciência da Computação - Universidade Paulista (UNIP)<br>
  💻  Pós-Graduada em Gestão na Educação Inclusiva - Universidade Federal de Pelotas (UFPEL) <br>
  💻  Pós-Graduada em Pscicopedagogia - Faculdade das Américas (FAM) <br>
- 🎓  Mestranda em Medicina - Universidade de São Paulo (USP) <br>
+ 🎓  Mestranda em Engenharia da Informação - Universidade Federal do ABC (UFABC) <br>
 
 
 </div>
